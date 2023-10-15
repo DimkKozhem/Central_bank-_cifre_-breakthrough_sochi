@@ -18,7 +18,7 @@
 
 **Ноутбук с Baseline:** `baseline_v2_3.ipynb`
 
-Запустить ноутбук можно по [ссылке](https://colab.research.google.com](https://colab.research.google.com/drive/1DctQLxPAKdRB1uUVTwh9XjLskHPnIqLF?usp=sharing)).
+Запустить ноутбук можно по [ссылке](https://colab.research.google.com/drive/1DctQLxPAKdRB1uUVTwh9XjLskHPnIqLF?usp=sharing).
 
 Используемые библиотеки:
 - scikit-learn
@@ -31,7 +31,7 @@
 
 **Ноутбук с решением:** `CB_SOCHI.ipynb`
 
-Запустить ноутбук можно по [ссылке]([https://colab.research.google.com](https://colab.research.google.com/drive/1hq4MFfMckupL6GTJjVXuh2OwERHHJitU?usp=sharing)).
+Запустить ноутбук можно по [ссылке](https://colab.research.google.com/drive/1hq4MFfMckupL6GTJjVXuh2OwERHHJitU?usp=sharing).
 
 Веса модели можно скачать по [ссылке](https://colab.research.google.com](https://drive.google.com/file/d/1bdPrDfgm8u7i6dN8M8WFFskpfNxf0y6J/view?usp=drive_link)).
 
